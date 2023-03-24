@@ -1,10 +1,10 @@
 # hello-world
-First time to Git a repository.
+It's time to start the music, 
 
+it's time to light the lights,
 
-Greetings Nerds and assorted Code Geeks,
+it's time to get things started,
 
-Python is my main jam, and that jam is tasty.
-I am here to learn and commit greatness, 
-though I will likely commit some less wonderful things first.
+On the Muppet Show Tonight!
 
+First time to use a Git repository, so, cheers to a wonderful future.
